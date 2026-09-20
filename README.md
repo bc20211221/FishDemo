@@ -4,7 +4,7 @@
 
 ## 在线访问
 
-- 线上地址：https://codebuddy-d2g5hlh0n3c05d405-1442452427.tcloudbaseapp.com/
+- 线上地址：
 
 > 如遇 CDN 缓存未刷新，可在链接后加随机参数访问，例如 `?v=20260611`。
 
@@ -32,7 +32,7 @@ node server.js   # 本地起静态服务（仅开发用，无需上线）
 - 环境 ID：`codebuddy-d2g5hlh0n3c05d405`
 - 区域：`ap-shanghai`
 - 已上传文件：`index.html`、`app.js`、`data.js`、`style.css`
-- 控制台（静态托管）：https://tcb.cloud.tencent.com/dev?envId=codebuddy-d2g5hlh0n3c05d405#/static-hosting
+- 控制台（静态托管）：
 
 ### 更新部署
 
